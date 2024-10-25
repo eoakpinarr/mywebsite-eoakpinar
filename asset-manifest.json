@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mywebsite-eoakpinar/static/css/main.b57f2ce5.css",
-    "main.js": "/mywebsite-eoakpinar/static/js/main.f7fb1204.js",
-    "static/media/letter-e.png": "/mywebsite-eoakpinar/static/media/letter-e.5d73d6f2d660b537e54a.png",
-    "index.html": "/mywebsite-eoakpinar/index.html",
-    "main.b57f2ce5.css.map": "/mywebsite-eoakpinar/static/css/main.b57f2ce5.css.map",
-    "main.f7fb1204.js.map": "/mywebsite-eoakpinar/static/js/main.f7fb1204.js.map"
+    "main.css": "/static/css/main.b57f2ce5.css",
+    "main.js": "/static/js/main.76d0769f.js",
+    "static/media/letter-e.png": "/static/media/letter-e.5d73d6f2d660b537e54a.png",
+    "index.html": "/index.html",
+    "main.b57f2ce5.css.map": "/static/css/main.b57f2ce5.css.map",
+    "main.76d0769f.js.map": "/static/js/main.76d0769f.js.map"
   },
   "entrypoints": [
     "static/css/main.b57f2ce5.css",
-    "static/js/main.f7fb1204.js"
+    "static/js/main.76d0769f.js"
   ]
 }
