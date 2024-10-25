@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mywebsite-eoakpinar/static/css/main.b57f2ce5.css",
+    "main.js": "/mywebsite-eoakpinar/static/js/main.f7fb1204.js",
+    "static/media/letter-e.png": "/mywebsite-eoakpinar/static/media/letter-e.5d73d6f2d660b537e54a.png",
+    "index.html": "/mywebsite-eoakpinar/index.html",
+    "main.b57f2ce5.css.map": "/mywebsite-eoakpinar/static/css/main.b57f2ce5.css.map",
+    "main.f7fb1204.js.map": "/mywebsite-eoakpinar/static/js/main.f7fb1204.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b57f2ce5.css",
+    "static/js/main.f7fb1204.js"
+  ]
+}
