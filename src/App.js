@@ -8,7 +8,7 @@ import Layout from './components/Layout'; // Layout bileşenini içe aktarın
 
 export const App = () => {
   return (
-    <Router basename='/mywebsite-eoakpinar'>
+    <Router basename='/'>
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
